@@ -25,9 +25,6 @@ Lightweight library management system implemented in C# (.NET 10). This reposito
    - From the project folder: `dotnet run`
    - Or open the solution in __Visual Studio__ and run using the IDE
 
-4. Run tests (if present)
-   - `dotnet test`
-
 ## Project layout (selected)
 - `Controllers/` — controller classes (e.g., `BaseController.cs`, `MagazineController.cs`)
 - `MockupDatabase.cs` — in-memory mock data store for samples and test data
@@ -36,11 +33,6 @@ Lightweight library management system implemented in C# (.NET 10). This reposito
 
 ## Usage
 This is intended as a sample/library project. Inspect controllers and `MockupDatabase` to see how entities are created, queried, and managed. Adapt or extend models and controllers to integrate with a persistent data store or UI.
-
-## Contributing
-- Open an issue or submit a pull request.
-- Keep changes focused and include unit tests when applicable.
-- Follow repository coding style and standards for clarity.
 
 ## Repository
 - Origin: https://github.com/urasylmaz1/TCSA.OOP.LibraryManagementSystem
