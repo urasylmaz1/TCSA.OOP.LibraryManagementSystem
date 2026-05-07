@@ -42,8 +42,5 @@ This is intended as a sample/library project. Inspect controllers and `MockupDat
 - Keep changes focused and include unit tests when applicable.
 - Follow repository coding style and standards for clarity.
 
-## License
-- MIT (or replace with the project's chosen license)
-
 ## Repository
 - Origin: https://github.com/urasylmaz1/TCSA.OOP.LibraryManagementSystem
